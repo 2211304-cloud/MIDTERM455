@@ -5,11 +5,12 @@ alert("Welcome to Gadget Shop!");
 }
 
 
-function welcomeMessage(){
+function offerMessage(){
 
-alert("Welcome to Gadget Shop!");
+alert("Congratulations! You got 20% discount today.");
 
 }
+
 
 function hideDetails(){
 

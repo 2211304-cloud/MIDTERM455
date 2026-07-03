@@ -12,7 +12,7 @@ background:#f4f4f4;
 
 header{
 
-background:#222;
+background:#045fba;
 
 color:white;
 
@@ -25,7 +25,7 @@ padding:20px;
 
 nav{
 
-background:#444;
+background:#0881eb;
 
 text-align:center;
 
@@ -98,7 +98,7 @@ gap:20px;
 
 .product-grid div{
 
-background:white;
+background:rgb(125, 193, 224);
 
 padding:20px;
 
@@ -135,7 +135,7 @@ background:#004f9e;
 
 footer{
 
-background:#222;
+background:#045fba;
 
 color:white;
 
